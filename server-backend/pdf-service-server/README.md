@@ -8,4 +8,6 @@ To start the service follow the below Instructions:
 
 4)You can access the service in **http://localhost:3002/....**
 
+5)**Note:** The generated PDF file will be saved on pdfs folder.
+
 
