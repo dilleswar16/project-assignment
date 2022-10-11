@@ -1,4 +1,4 @@
-To start the service follow the brlo Instructions:
+To start the service follow the below Instructions:
 
 1)Download the pdf-service-server and open the folder in any IDE or terminal.
 
